@@ -1,0 +1,10 @@
+2020-02-23 18:01:44 INFO  Client_application:Client_application:16 -Enter the total area of the house
+2020-02-23 18:01:48 INFO  Client_application:Client_application:22 -
+Enter your choice: 
+2020-02-23 18:01:48 INFO  Client_application:Client_application:23 -1.Standard Material
+2.Above Standard Material
+3.High Standard Material
+4.High standard Material and Fully automatic home
+2020-02-23 18:01:51 INFO  Client_application:Client_application:26 -Do you want a fully automated house(y/n)
+2020-02-23 18:01:52 INFO  Client_application:Client_application:41 -220000
+2020-02-23 18:01:52 INFO  Client_application:Client_application:59 -Do you want to change your choice y/n?

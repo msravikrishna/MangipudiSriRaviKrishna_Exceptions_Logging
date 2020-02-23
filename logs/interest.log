@@ -1,0 +1,15 @@
+2020-02-23 18:02:54 INFO  Client_application:Client_application:12 -Enter the principle amount
+2020-02-23 18:03:01 INFO  Client_application:Client_application:14 -Enter the time period
+2020-02-23 18:03:02 INFO  Client_application:Client_application:16 -Enter the rate of interest
+2020-02-23 18:03:05 INFO  Client_application:Client_application:19 -
+1.Simple Interest
+2.Compound Interest
+2020-02-23 18:03:05 INFO  Client_application:Client_application:20 -Enter the choice
+2020-02-23 18:03:07 INFO  Client_application:Client_application:25 -400.0
+2020-02-23 18:03:07 INFO  Client_application:Client_application:31 -Do you want to continue Y/N?
+2020-02-23 18:03:11 INFO  Client_application:Client_application:19 -
+1.Simple Interest
+2.Compound Interest
+2020-02-23 18:03:11 INFO  Client_application:Client_application:20 -Enter the choice
+2020-02-23 18:03:12 INFO  Client_application:Client_application:28 -440.0
+2020-02-23 18:03:12 INFO  Client_application:Client_application:31 -Do you want to continue Y/N?
